@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIRequiredDeviceCapabilities</key>
+	<dict>
+		<key>armv7</key>
+		<true/>
+		<key>video-camera</key>
+		<true/>
+	</dict>
+	<key>appleId</key>
+	<string>vshare2015@163.com</string>
+	<key>artistId</key>
+	<integer>388641449</integer>
+	<key>artistName</key>
+	<string>Mind Candy Ltd</string>
+	<key>bundleDisplayName</key>
+	<string>The 7SC</string>
+	<key>bundleShortVersionString</key>
+	<string>1.1.0</string>
+	<key>bundleVersion</key>
+	<string>3</string>
+	<key>copyright</key>
+	<string>© 2015 Mind Candy Ltd</string>
+	<key>drmVersionNumber</key>
+	<integer>0</integer>
+	<key>fileExtension</key>
+	<string>.app</string>
+	<key>gameCenterEnabled</key>
+	<false/>
+	<key>gameCenterEverEnabled</key>
+	<false/>
+	<key>genre</key>
+	<string>Games</string>
+	<key>genreId</key>
+	<integer>6014</integer>
+	<key>itemId</key>
+	<integer>1005017298</integer>
+	<key>itemName</key>
+	<string>The 7 Second Challenge</string>
+	<key>kind</key>
+	<string>software</string>
+	<key>playlistName</key>
+	<string>Mind Candy Ltd</string>
+	<key>product-type</key>
+	<string>ios-app</string>
+	<key>purchaseDate</key>
+	<date>2015-08-11T01:51:40Z</date>
+	<key>rating</key>
+	<dict>
+		<key>content</key>
+		<string>Advisory.NO.UNRESTRICTED_WEB_ACCESS and Advisory.NO.GAMBLING_CONTESTS</string>
+		<key>label</key>
+		<string>4+</string>
+		<key>rank</key>
+		<integer>100</integer>
+		<key>system</key>
+		<string>itunes-games</string>
+	</dict>
+	<key>releaseDate</key>
+	<string>2015-08-06T17:51:57Z</string>
+	<key>s</key>
+	<integer>143479</integer>
+	<key>softwareIcon57x57URL</key>
+	<string>http://a1319.phobos.apple.com/us/r30/Purple7/v4/45/5e/5b/455e5b06-597d-f407-3779-767e93702f85/icon114x114.jpeg</string>
+	<key>softwareIconNeedsShine</key>
+	<false/>
+	<key>softwareSupportedDeviceIds</key>
+	<array>
+		<integer>2</integer>
+		<integer>9</integer>
+		<integer>4</integer>
+	</array>
+	<key>softwareVersionBundleId</key>
+	<string>com.mindcandy.appstore.sevensecondchallenge</string>
+	<key>softwareVersionExternalIdentifier</key>
+	<integer>812939056</integer>
+	<key>softwareVersionExternalIdentifiers</key>
+	<array>
+		<integer>812939056</integer>
+		<integer>812626554</integer>
+	</array>
+	<key>storeCohort</key>
+	<string>3|date=1439256600000&amp;sf=143479</string>
+	<key>subgenres</key>
+	<array>
+		<dict>
+			<key>genre</key>
+			<string>Family</string>
+			<key>genreId</key>
+			<integer>7009</integer>
+		</dict>
+		<dict>
+			<key>genre</key>
+			<string>Trivia</string>
+			<key>genreId</key>
+			<integer>7018</integer>
+		</dict>
+	</array>
+	<key>userName</key>
+	<string>Shuo Wang</string>
+	<key>vendorId</key>
+	<integer>417715</integer>
+	<key>versionRestrictions</key>
+	<integer>16843008</integer>
+</dict>
+</plist>
